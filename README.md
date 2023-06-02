@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @XiaoWangJiaYouYa.
-- 👀 I’m interested in  data competition. 
-- 🌱 I’m currently learning computer version and kaggle.
-- 💞️ I’m looking to collaborate on kaggle competition.
-- 📫 heheha2223@163.com
+
 
 
 <!---
